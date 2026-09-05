@@ -1,3 +1,4 @@
+
 *{
     margin : 0;
     padding : 0;
@@ -7,12 +8,12 @@ body {
     display : flex;
     justify-content: center;
     align-items : center;
-    background-color: #4ecdc4;
+    background-color: grey;
     min-height : 100vh;
 }
 
 .container {
-    background-color : #f7fff7;
+    background-color : rgb(220, 217, 217);
     padding : 2rem;
     border-radius : 1rem;
     min-height : 45vh;
@@ -73,7 +74,7 @@ form input{
 
 form button {
     height : 3rem;
-    background-color : #af4d98;
+    background-color : #4f4c4d;
     color : #fff;
     font-size : 1.15rem;
     cursor : pointer;
