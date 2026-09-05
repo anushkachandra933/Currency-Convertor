@@ -58,4 +58,4 @@ CURRENCY CONVERTOR/
 
 ## 👩‍💻 Author
 
-Made with ❤️ by [Anushka Chandra](https://github.com/anushkachandra933)
+Made by [Anushka Chandra](https://github.com/anushkachandra933)
